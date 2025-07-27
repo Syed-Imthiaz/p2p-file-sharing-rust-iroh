@@ -18,33 +18,39 @@ This project enables fast, decentralized file transfers using an in-memory store
 
 ### 📨 Send a File
 
-```bash
+bash
 cargo run -- send path/to/file.txt
-📥 Receive a File
+
+## 📥 Receive a File
+
 bash
-Copy
-Edit
 cargo run -- receive [TICKET] path/to/save.txt
-📁 Example
-✅ Sender
+
+---
+
+## 📁 Example
+## ✅ Sender
+
 bash
-Copy
-Edit
 cargo run -- send notes.pdf
-Output:
+
+##Output:
 
 arduino
-Copy
-Edit
+
 Hashing file.
 File hashed. Fetch this file by running:
 cargo run -- receive [ticket] notes.pdf
-✅ Receiver
+
+## ✅ Receiver
+
 bash
-Copy
-Edit
 cargo run -- receive [ticket] notes.pdf
-🔧 Dependencies
+
+---
+
+## 🔧 Dependencies
+
 iroh – P2P networking
 
 iroh-blobs – Blob storage & file transfer
@@ -53,16 +59,18 @@ tokio – Async runtime
 
 anyhow – Error handling
 
-➕ Add to your Cargo.toml
+## ➕ Add to your Cargo.toml
+
 toml
-Copy
-Edit
 [dependencies]
 anyhow = "1"
 tokio = { version = "1", features = ["full"] }
 iroh = "0.10.0"
 iroh-blobs = "0.10.0"
-🔗 Resources
+
+---
+## 🔗 Resources
+
 🌐 iroh.computer
 
 📘 Awesome IROH GitHub Collection
@@ -72,4 +80,6 @@ iroh-blobs = "0.10.0"
 🎥 Sendme Demo – YouTube
 
 🎥 P2P File Sharing Overview – YouTube
+
+---
 
