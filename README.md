@@ -19,11 +19,15 @@ This project enables fast, decentralized file transfers using an in-memory store
 ### 📨 Send a File
 
 bash
+
+
 cargo run -- send path/to/file.txt
 
 ## 📥 Receive a File
 
 bash
+
+
 cargo run -- receive [TICKET] path/to/save.txt
 
 ---
@@ -32,9 +36,11 @@ cargo run -- receive [TICKET] path/to/save.txt
 ## ✅ Sender
 
 bash
+
+
 cargo run -- send notes.pdf
 
-##Output:
+## Output:
 
 arduino
 
@@ -45,6 +51,8 @@ cargo run -- receive [ticket] notes.pdf
 ## ✅ Receiver
 
 bash
+
+
 cargo run -- receive [ticket] notes.pdf
 
 ---
@@ -62,6 +70,8 @@ anyhow – Error handling
 ## ➕ Add to your Cargo.toml
 
 toml
+
+
 [dependencies]
 anyhow = "1"
 tokio = { version = "1", features = ["full"] }
