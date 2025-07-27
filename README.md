@@ -68,7 +68,7 @@ cargo run -- receive [ticket] notes.pdf
 
 ### ➕ Add to your `Cargo.toml`
 
-```toml
+
 [dependencies]
 anyhow = "1"
 tokio = { version = "1", features = ["full"] }
