@@ -95,5 +95,22 @@ iroh-blobs = "0.10.0"
 
 ---
 
+## 👨‍💻 Author
 
+**Syed Imthiaz I**  
+B.E. Computer Science and Engineering  
+KCG College of Technology  
+🔗 [LinkedIn](https://www.linkedin.com/in/syed-imthiaz-i-7a308b301/)  
+🔗 [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7353801491276611584/)
+
+---
+
+## 🚫 License & Disclaimer
+
+© 2025 Syed Imthiaz I — All rights reserved.
+Unauthorized copying, modification, distribution, or use of this code or any part of it is strictly prohibited without the express written permission of the author.
+
+📩 For permission requests, contact: syedimthiaz2006@gmail.com
+
+---
 
