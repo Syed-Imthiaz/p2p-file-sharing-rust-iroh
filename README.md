@@ -81,15 +81,11 @@ iroh-blobs = "0.10.0"
 ---
 ## 🔗 Resources
 
-🌐 iroh.computer
-
-📘 Awesome IROH GitHub Collection
-
-🚀 Sendme Tool
-
-🎥 Sendme Demo – YouTube
-
-🎥 P2P File Sharing Overview – YouTube
+- 🌐 [iroh.computer](https://www.iroh.computer)
+- 📘 [Awesome IROH GitHub Collection](https://github.com/n0-computer/awesome-iroh)
+- 🚀 [Sendme Tool](https://www.iroh.computer/sendme)
+- 🎥 [Sendme Demo – YouTube](https://youtu.be/uj-7Y_7p4Dg?si=L0lLnxlkqhxs9AqX)
+- 🎥 [P2P File Sharing Overview – YouTube](https://youtu.be/tlSwje2ru34?si=MU1UjEKoIliAZl86)
 
 ---
 
