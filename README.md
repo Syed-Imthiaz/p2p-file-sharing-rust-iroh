@@ -33,6 +33,7 @@ cargo run -- receive [TICKET] path/to/save.txt
 ---
 
 ## 📁 Example
+
 ## ✅ Sender
 
 bash
@@ -40,7 +41,7 @@ bash
 
 cargo run -- send notes.pdf
 
-## Output:
+## 🧾 Output
 
 arduino
 
