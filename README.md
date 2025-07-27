@@ -60,13 +60,11 @@ cargo run -- receive [ticket] notes.pdf
 
 ## 🔧 Dependencies
 
-iroh – P2P networking
+**iroh** – P2P networking  
+**iroh-blobs** – Blob storage & file transfer  
+**tokio** – Async runtime  
+**anyhow** – Error handling
 
-iroh-blobs – Blob storage & file transfer
-
-tokio – Async runtime
-
-anyhow – Error handling
 
 ## ➕ Add to your Cargo.toml
 
