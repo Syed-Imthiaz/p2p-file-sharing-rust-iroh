@@ -66,13 +66,15 @@ cargo run -- receive [ticket] notes.pdf
 **anyhow** – Error handling
 
 
-## ➕ Add to your Cargo.toml
+### ➕ Add to your `Cargo.toml`
 
+```toml
 [dependencies]
 anyhow = "1"
 tokio = { version = "1", features = ["full"] }
 iroh = "0.10.0"
 iroh-blobs = "0.10.0"
+
 
 
 ---
