@@ -100,7 +100,7 @@ iroh-blobs = "0.10.0"
 **Syed Imthiaz I**  
 B.E. Computer Science and Engineering  
 KCG College of Technology  
-🔗 [LinkedIn](https://www.linkedin.com/in/syed-imthiaz-i-7a308b301/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/syedimthiaz/)  
 🔗 [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7355251106823700480/)
 
 ---
